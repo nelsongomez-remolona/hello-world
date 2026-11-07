@@ -174,3 +174,125 @@ Wise. He does not abandon what he has undertaken, and always supports his kin. H
 > shikhI vikrame shatrunAshaM vivAdaM dhanaM bhogamaishvaryatejo.adhikaM cha | suhR^idvarganAshaM sadA bAhupIDAM bhayodvegachintA.akulatvaM vidhatte
 
 Ketu in the 3rd destroys enemies and brings disputes. It gives wealth, enjoyment, lordship and greater radiance. It also brings loss among friends, pain in the arms, and fear, anxiety and agitation.
+
+---
+
+## 5. Navamsa (D9) and karakamsa: BPHS chapter 33 (`par3140.itx`)
+
+The D9 for this chart:
+
+| Position from the karakamsa | D9 sign | Planets in it |
+|---|---|---|
+| 1st (also the D9 ascendant) | Virgo | Jupiter, Moon, Saturn |
+| 2nd | Libra | Ketu |
+| 3rd | Scorpio | Mercury |
+| 5th | Capricorn | Sun |
+| 6th | Aquarius | Venus |
+| 7th | Pisces | empty |
+| 8th | Aries | Rahu |
+| 9th | Taurus | Mars |
+| 10th | Gemini | empty |
+| 11th | Cancer | empty |
+| 12th | Leo | empty |
+
+The **karakamsa** (*svāṃśa*) is the navamsa sign of the atmakaraka, the planet at the highest degree within its sign. Here the atmakaraka is Jupiter, and the karakamsa is **Virgo**, which is also the D9 ascendant. If the Moon is the atmakaraka instead (the two are within 2′ of each other), the karakamsa is still Virgo.
+
+Many of these verses use *yutekṣita*, "joined *or* aspected". Where a sign is empty, I apply the planets aspecting it by graha drishti, and say so.
+
+**Karakamsa in Virgo: 33.4**
+> kaNDUH sthaulya~ncha kanyAMshe tathA vahnikaNAd.hbhayam
+
+When the atmakaraka is in a Virgo navamsa: itching (skin trouble), corpulence, and danger from sparks of fire.
+
+**Benefics and a malefic in the karakamsa: 33.9–10**
+> kArakAMshe shubhe vipra lagnAMshe cha shubhagrahe | shubhasaMvIxite jAto rAjA bhavati nishchitaH ‖ svAMshAchChubhagrahAH kendre koNe vA pApavarjitAH | dhanavidyAyuto jAto mishrairmishraphalaM vaded
+
+If benefics occupy the karakamsa and the navamsa ascendant, and benefics aspect them, the native certainly becomes a king. If benefics are in kendras or trines from the karakamsa, free of malefics, he has wealth and learning. **With a mixture, declare mixed results.**
+
+*Note:* Jupiter and the Moon (benefics) share the karakamsa with Saturn (a malefic), so the result is mixed.
+
+**Full Moon in the karakamsa: 33.13**
+> pUrNendrau bhogavAn vidvAn shukradR^iShTe visheShataH
+
+With the full Moon there: an enjoyer of pleasures and learned, especially if Venus aspects it.
+
+*Note:* The Moon is about 8° past full. Venus does not aspect it.
+
+**Jupiter in the karakamsa: 33.16**
+> sukarmA j~nAnaniShThashcha vedavit svAMshage gurau
+
+With Jupiter there: virtuous in action, devoted to knowledge, a knower of the Veda.
+
+**Saturn in the karakamsa: 33.17**
+> shanau svAMshagate jAtaH svakulochitakarmakR^it
+
+With Saturn there: he does the work proper to his family line.
+
+**Moon and Jupiter in the karakamsa: 33.41–42, repeated at 33.85–88**
+> svAMshe tatpa~nchame vA.api chandrejyAbhyAM cha granthakR^it | … guruNA kevalenaiva sarvavid granthakR^it tathA | vedavedAntavichchApi na vAgmI shAbdako.api san
+
+With the Moon and Jupiter in the karakamsa or the 5th from it: **an author of books.** With Venus, somewhat less so; with Mercury, less still. With Jupiter alone: an all-knowing author and a knower of Veda and Vedanta, a master of words, **yet not an orator.**
+
+**Saturn and the Moon in the karakamsa: 33.43–44, repeated at 33.89–90**
+> sabhAjaDastu shaninA … chandreNa sAMkhyayogaj~naH sAhityaj~nashcha gAyakaH
+
+With Saturn: **dull or tongue-tied in assemblies.** With the Moon: a knower of Sankhya and Yoga, versed in literature, a singer.
+
+**Ketu in the 2nd from the karakamsa: 33.31, 33.93**
+> ketau tatpratibandhaH syAt … ketau svAMshAd.hdvitIye vA tR^itIye stabdhavAg bhavet | pApadR^iShTe visheSheNa mAnavo vaktumaxamaH
+
+Ketu there checks the tendency described in the verse before, which is about adultery. With Ketu in the 2nd or 3rd from the karakamsa, the native's **speech is stiff**. If malefics aspect it, he is especially unable to speak.
+
+*Note:* No malefic aspects this Ketu.
+
+**A benefic in the 3rd or 6th from the karakamsa: 33.32, 33.46**
+> tasmin shubhagrahe jAtaH kAtaro … ShaShThagate pApe karShako … shubhagrahe.alasashcheti tR^itIye.api
+
+With a benefic in the 3rd from the karakamsa, the native is timid. With a malefic in the 6th he is a cultivator; with a benefic there, **lazy**. The same applies to the 3rd.
+
+*Note:* Mercury is in the 3rd and Venus in the 6th, both benefics.
+
+**Malefics in the trines from the karakamsa: 33.75–76**
+> kArakAMshAt trikoNasthe pApakhetadvaye dvija | mAnavo mantratantraj~no jAyate … shubhairnirIxite tasmin naro.anugrAhako bhavet
+
+With two malefics in the trines from the karakamsa: **a knower of mantra and tantra.** If malefics aspect them, he uses that knowledge to restrain or harm. If benefics aspect them, he uses it to bless and help.
+
+*Note:* The Sun is in the 5th and Mars in the 9th from the karakamsa. Jupiter aspects both, by its 5th- and 9th-house aspects from Virgo, so the "help" reading applies.
+
+**Sun in the 5th from the karakamsa: 33.39, 33.84**
+> ravau khaDgadharo jAtaH
+
+With the Sun there: a sword-bearer.
+
+**The 7th from the karakamsa (empty; aspected by the Moon, Jupiter and Saturn): 33.47–48**
+> dyUne chandraguru yasya bhAryA tasyAtisundarI | … shanau chApi vayo.adhikA
+
+With the Moon and Jupiter in the 7th: **a very beautiful wife.** With Saturn: **a wife older in age.**
+
+*Note:* These verses name planets *in* the 7th, so applying them by aspect is an extension.
+
+**The 9th from the karakamsa (Mars in it; Jupiter aspects it): 33.50–51**
+> kArakAMshAchcha navame shubhagrahayutexite | satyavAdI gurau bhaktaH svadharmanirato naraH ‖ … pApagrahayutexite | svadharmanirato bAlye mithyAvAdI cha vArdhake
+
+With benefics joining or aspecting it: truthful, devoted to his teacher, and steady in his own dharma. With malefics: steady in his own dharma in youth, but **false in speech in old age.**
+
+*Note:* Both conditions are present.
+
+**The 10th from the karakamsa (empty; Saturn aspects it): 33.58**
+> dashame kArakAMshAchcha pApakheTayutexite | vyApAre jAyate hAniH pitR^isaukhyena varjitaH
+
+With a malefic joining or aspecting the 10th from the karakamsa: **losses in trade, and no happiness from the father.**
+
+**The 11th from the karakamsa (empty; the Sun aspects it): 33.62**
+> ekAdashe sapApe tu kumArgAllAbakR^innaraH | vikhyAto vikramI chaiva
+
+With a malefic there: he gains by an irregular path, and is famous and valorous.
+
+**The 12th from the karakamsa (empty; Venus and Mars aspect it): 33.63**
+> kArakAMshAd vyayasthAne sad.hgrahe sad.hvyayo bhavet | asad.hvyayo.ashubhe j~neyo grahAbhAve cha satphalam
+
+With a benefic there: spending on good things. With a malefic: spending on bad things. With no planet there: a good result.
+
+*Note:* The sign is empty, but one benefic and one malefic aspect it.
+
+*Omitted:* 33.49, which judges lifespan from the 8th from the karakamsa.
