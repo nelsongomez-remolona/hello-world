@@ -34,6 +34,12 @@ Sources: https://sanskritdocuments.org/sanskrit/jyotisha/ and https://gretil.sub
 
 English translations of selected verses are in `../translations/`.
 
+## Tajika (annual charts)
+
+| File | Work | Edition | Licence |
+|---|---|---|---|
+| `hayanaratna_balabhadra_gansten-2020.txt` | Hāyanaratna of Balabhadra (17th c.), a compendium of Tajika annual astrology that quotes Nīlakaṇṭha, Samarasiṃha, Tejaḥsiṃha and others | Martin Gansten, *The Jewel of Annual Astrology: A Parallel Sanskrit-English Critical Edition*, Brill 2020. The file is the Internet Archive OCR. | CC BY 4.0. https://archive.org/details/oapen-20.500.12657-42540 |
+
 ## Not included
 
 - **An English translation of Brihat Parashara Hora Shastra.** There is no pre-1931 English translation, and the standard ones (Santhanam 1984, Sharma) are under copyright. The Sanskrit original is in `sanskrit/`.
