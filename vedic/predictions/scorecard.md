@@ -18,9 +18,10 @@ Each item records what the chart said, when it was said relative to knowing the 
 | 8 | Notable dental history | BPHS 24.76 | Yes | Hit | high |
 | 9 | Scar on head or face | Brihat Jataka; PD 9.1 | Yes | **Hit** (brow) | low–moderate |
 | 10 | Significant relationship event, Mar 2023 – Nov 2024 | Vimshottari Moon–Venus | Yes | **Hit** (breakup) | moderate–high |
-| 11 | Hard upheaval in 2025 (home, residence or income), May–Oct | Mars mahadasha start; Sade Sati start | Yes | Partial: 2025 was among the hardest years; the content and months are unconfirmed | moderate |
+| 11 | Hard upheaval in 2025 (home, residence or income), May–Oct | Mars mahadasha start; Sade Sati start | Yes | **Hit**: income collapsed (unemployment, part-time DJ work), and a bad roommate from May to Oct 2025, which matches both the home and income content and the exact window (Mars–Mars sub-period, 27 May – 24 Oct 2025) | low–moderate |
 | 12 | Strained relationship with father | BPHS 24.36, 24.70, 24.94, 33.58 | Yes | Hit (strained, though the least strained relationship in the family) | moderate |
-| 13 | Contract betrayal | various | **No**: fitted after the user described it | Not scored | — |
+| 13 | Music ability (BPHS 33.90: "singer, knower of song"; Kinnara rising drekkana) | various | **No**: raised after the user asked about music; the user DJs part time | Not scored | — |
+| 14 | Contract betrayal | various | **No**: fitted after the user described it | Not scored | — |
 
 ## Forecasts (open)
 
