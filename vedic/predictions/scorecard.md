@@ -20,6 +20,7 @@ Each item records what the chart said, when it was said relative to knowing the 
 | 10 | Significant relationship event, Mar 2023 – Nov 2024 | Vimshottari Moon–Venus | Yes | **Hit** (breakup) | moderate–high |
 | 11 | Hard upheaval in 2025 (home, residence or income), May–Oct | Mars mahadasha start; Sade Sati start | Yes | **Hit**: income collapsed (unemployment, part-time DJ work), and a bad roommate from May to Oct 2025, which matches both the home and income content and the exact window (Mars–Mars sub-period, 27 May – 24 Oct 2025) | low–moderate |
 | 12 | Strained relationship with father | BPHS 24.36, 24.70, 24.94, 33.58 | Yes | Hit (strained, though the least strained relationship in the family) | moderate |
+| 15 | D12 parents: father detached (Ketu in 9th); mother resilient through upheaval (4th lord exalted in 8th; debilitated Moon in 12th); help arriving in crises (exalted Jupiter in 8th); distance from both | D12 | Yes | **Hit** on detachment, resilience, crisis help and distance. **Miss** on "troubled father": he is successful. Mother's divorce and decade of moving between homes are consistent but were not specifically predicted. | moderate |
 | 13 | Music ability (BPHS 33.90: "singer, knower of song"; Kinnara rising drekkana) | various | **No**: raised after the user asked about music; the user DJs part time | Not scored | — |
 | 14 | Contract betrayal | various | **No**: fitted after the user described it | Not scored | — |
 
