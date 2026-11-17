@@ -12,6 +12,13 @@ All editions below were published before 1931 and are in the public domain in th
 | `saravali_kalyanavarma_sanskrit-1907.txt` | Saravali (Kalyanavarma) | ed. V. Subrahmanya Sastri | 1907 | Sanskrit (Devanagari) | fair | https://archive.org/details/saravali00kalyuoft |
 | `surya-siddhanta_burgess-1860.txt` | Surya Siddhanta, astronomy and calculation | Ebenezer Burgess | JAOS vol. 6, New Haven, 1860 | English | poor–fair | https://archive.org/details/dli.bengal.10689.17955 |
 
+## More English, public domain
+
+| File | Work | Edition | OCR | Source |
+|---|---|---|---|---|
+| `jataka-chandrika_laghu-parashari_suryanarain-rao-1898.txt` | Jātaka Chandrikā, also called Laghu Pārāśarī: the classic short text on how a planet's house lordships make it good or bad for a given ascendant. Partial: the scan covers the opening chapters. | B. Suryanarain Rao, 2nd ed., Bangalore 1898 | good | https://archive.org/details/dli.ministry.03343 |
+| `alberunis-india-vol2_sachau-1888.txt` | Alberuni's India, vol. 2: an 11th-century outside account of Indian astronomy, calendar and astrology | E. C. Sachau, London 1888 | good | https://archive.org/details/alberunisindiaac02biruuoft |
+
 ## Sanskrit e-texts (`sanskrit/`)
 
 These are volunteer-typed Sanskrit originals. The `.itx` files are ITRANS transliteration from sanskritdocuments.org. Their header says they are "for personal study and research" and must not be reposted for promotion or commercial purposes. The `sa_*.txt` files come from GRETIL, which licenses for non-commercial use with attribution. Each file's own header carries its credits. All of the underlying works are ancient or medieval.
@@ -29,6 +36,10 @@ These are volunteer-typed Sanskrit originals. The `.itx` files are ITRANS transl
 | `vriddhayavanajataka1.itx` | Vriddha Yavana Jataka |
 | `daivaGYavallabha.itx` | Daivajna Vallabha |
 | `sa_sUryasiddhAnta.txt` | Surya Siddhanta |
+| `sa_varAhamihira-vivAhapaTala.txt` | Vivāhapaṭala (Varahamihira): marriage timing and compatibility |
+| `sa_varAhamihira-yogayAtrA-edpingree.txt`, `sa_varAhamihira-tikanikayAtra.txt` | Yogayātrā and Ṭikanikayātrā (Varahamihira): timing of journeys and undertakings |
+| `sa_varAhamihira-bRhatsaMhitA.txt` | Bṛhat Saṃhitā, GRETIL edition (cleaner than the OCR) |
+| `sa_lagadha-RgvedavedAGgajyotiSa.txt` | Vedāṅga Jyotiṣa (Lagadha), the oldest Indian calendrical text |
 
 Sources: https://sanskritdocuments.org/sanskrit/jyotisha/ and https://gretil.sub.uni-goettingen.de/gretil.html (section "Astrology, astronomy, mathematics").
 
