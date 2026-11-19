@@ -24,7 +24,7 @@ Every item both **updates** (what is new) and **educates** (what you need to kno
 
 ## Links
 
-Link the claims inside the text itself: every factual claim, figure, and quote is linked at the point it appears to the source it came from, using the most primary source available (the statement, ruling, report or dataset over coverage of it). No unlinked claims. The Sources list at the end remains as an index, not a substitute.
+Link the claims inside the text itself: every factual claim, figure, and quote is linked at the point it appears to the source it came from, using the most primary source available (the statement, ruling, report or dataset over coverage of it). No unlinked claims. There is no separate sources list at the end.
 
 ## Topic coverage
 
@@ -32,12 +32,12 @@ Rotate the "educate" weight across areas where surveys show people rate staying 
 
 ## Edition structure
 
-1. **Overview**: 5–7 one-line takeaways.
-2. **Main items** (about 6): format above. Include follow-through: when a previous watchlist item resolves, report how, including when the outcome was uneventful.
-3. **Concept**: one idea decision-makers use (e.g. risk premium, term structure, sovereign immunity), illustrated by today's news.
-4. **Watchlist**: dated events in the coming days and weeks.
-5. **Left out, and why**: high-volume stories deliberately skipped, one line each.
-6. **Sources**
+1. **Overview**: one line per main item.
+2. **Main items** (exactly 5): format above. Word budget per item: What happened ~60, Background ~50, Why it matters ~60, then Confidence and Watch on one combined line. Include follow-through: when a previous watchlist item resolves, report how, including when the outcome was uneventful.
+3. **Briefly**: up to 4 one- or two-sentence items, for stories that matter but don't need explaining today.
+4. **Concept**: one paragraph (~70 words) on an idea decision-makers use (e.g. risk premium, term structure, sovereign immunity), illustrated by today's news.
+5. **Watchlist**: a table of dated events in the coming days and weeks, up to 7 rows.
+6. **Left out**: one line naming the high-volume stories deliberately skipped.
 
 ## Language rules
 
@@ -45,7 +45,7 @@ Rotate the "educate" weight across areas where surveys show people rate staying 
 - Numbers over adjectives. Give the baseline (vs. pre-war, vs. last year, vs. consensus).
 - Separate what a party *claims* from what is *verified*.
 - Disclose conflicts of interest of the writer (this brief is produced with Claude, made by Anthropic; any Anthropic story is flagged).
-- Length target: 8–10 minutes of reading.
+- Length target: 7 minutes of reading, i.e. 1,300–1,500 words excluding link URLs. Check with a word count before the fact-check. If over, cut a Briefly item or a main item's Why-it-matters before cutting Background.
 
 ## Fact-check (required before sending)
 
