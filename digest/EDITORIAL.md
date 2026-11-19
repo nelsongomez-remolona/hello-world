@@ -47,6 +47,26 @@ Rotate the "educate" weight across areas where surveys show people rate staying 
 - Disclose conflicts of interest of the writer (this brief is produced with Claude, made by Anthropic; any Anthropic story is flagged).
 - Length target: 8–10 minutes of reading.
 
+## Fact-check (required before sending)
+
+Nothing is sent until a fact-check pass is complete. The check is a separate step from writing, done by a reviewer with fresh context (a subagent that didn't write the draft), because the writer tends to confirm its own claims.
+
+1. **List every checkable claim**: names, numbers, dates, votes, quotes, attributions, and descriptions of status ("pending," "not yet released," "first since").
+2. **Check dates first.** Open each linked source and confirm its publication date falls within the coverage window. Search results mix in pages from earlier years; a source with an unclear or older date doesn't count as verification of a current claim.
+3. **Verify against the linked page itself**, not a search snippet. Numbers and votes should come from the primary source (central bank release, court summary, official statement) when one exists.
+4. **Check that the status is still current.** For anything described as pending, upcoming or unreleased, search whether it has happened since the source was published.
+5. **Check for omissions**: something material the source reports that changes the meaning of a story (e.g. a casualty event, a vote split, a narrowed scope).
+6. **Decide each claim:**
+   - verified → keep
+   - wrong → correct it
+   - unverifiable → label it in the text (single source / unverified) or cut it
+   - if a main item's central claim fails → drop the item
+7. **Write a log** to `digest/factchecks/YYYY-MM-DD.md`: claim, status (OK / FIXED / ADDED / LABELLED / NOT VERIFIED), source, note.
+8. **Gate.** Send only if no claim is left wrong and every NOT VERIFIED item is minor and labelled. Otherwise commit the edition and log, don't send, and report why.
+9. **Corrections.** If a previous edition was wrong, the next edition opens with a correction note.
+
+The email ends with one line: "Fact-checked: N claims checked, X corrected, Y labelled. Log: <link>."
+
 ## Source tiers
 
 Prefer, in order: primary documents (central bank statements, court rulings, IEA/IMF reports, official readouts), wire services (Reuters, AP, AFP, Anadolu), specialist outlets (Just Security, CNBC/Bloomberg markets, Kyiv Independent, Al Jazeera for the Middle East), then general press. Flag state media as such.
