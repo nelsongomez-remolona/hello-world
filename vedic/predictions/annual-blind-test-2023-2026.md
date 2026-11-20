@@ -156,7 +156,7 @@ Q0 (location) was not answered. San Francisco is assumed for all three years.
 
 ### Verdict
 
-- **House content:** tropical 15, Vedic 9.5, out of 26 discriminating questions (one went to neither). A one-sided binomial test gives p ≈ 0.12. That favours the tropical solar return but isn't significant. The lead comes entirely from years A and B; the Vedic chart was better in year C.
+- **House content:** tropical 15, Vedic 9.5, out of 26 discriminating questions (one went to neither). A one-sided binomial test gives p ≈ 0.21. That favours the tropical solar return but isn't significant. The lead comes entirely from years A and B; the Vedic chart was better in year C.
 - **Month-level timing:** Mudda dasha (3/7) clearly beat Vimshottari sub-periods (0.5/7). Sub-periods last weeks, so they shift with small errors in the Moon's position or the ayanamsa; this calculation and AstroSage's already differ by about a week. Chara sub-periods hit both times, but their 10-month windows make hits cheap.
 - **Bias:** most answers were "yes", so whichever method predicted more events tended to score. T's "yes" predictions fell in years A and B and V's in year C, so this doesn't explain the whole result. It does inflate both scores.
 - **Working rule:** use the tropical solar return for which life areas are active, Mudda dasha for which months, and natal Vimshottari only at the main-period and sub-period level. Treat Vimshottari sub-sub-periods (pratyantardashas) as unreliable.

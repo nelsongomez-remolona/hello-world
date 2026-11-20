@@ -29,7 +29,7 @@ Each item records what the chart said, when it was said relative to knowing the 
 ## Annual-chart blind test (Oct 2023 – Oct 2026)
 
 See `annual-blind-test-2023-2026.md`. Predictions were committed before the answers were known.
-- **House content:** tropical solar return 15, Tajika Varshaphala 9.5, out of 26 (p ≈ 0.12).
+- **House content:** tropical solar return 15, Tajika Varshaphala 9.5, out of 26 (p ≈ 0.21).
 - **Month timing:** Mudda dasha 3/7, Vimshottari sub-sub-periods 0.5/7, Chara sub-periods 2/2 (wide windows).
 
 ## Forecasts (open)
