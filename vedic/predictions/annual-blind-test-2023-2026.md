@@ -84,8 +84,79 @@ Written 20 Nov 2026. The predictions below were committed **before** the questio
 | C14 | When you decided to stop analytical work | — | Vimshottari Ketu sub-period: 28 May – 19 Jun 2026. Mudda Venus: 9 Aug – 9 Oct 2026. | timing | |
 | C15 | Most romantic or pleasurable stretch | — | Vimshottari Venus sub-period: 19 Jun – 22 Aug 2026. Mudda Venus: 9 Aug – 9 Oct 2026. | timing | |
 
-**Discriminating questions:** 9 in A, 7 in B, 11 in C, so 27 in total. Timing questions are scored for V's components (Vimshottari, Mudda, Chara); T has no month-level system here.
+**Discriminating questions:** 9 in A, 7 in B, 10 in C, so 26 in total. (The original version of this line said 11 and 27; that was a counting error.) Timing questions are scored for V's components (Vimshottari, Mudda, Chara); T has no month-level system here.
 
 **Caveats**
 - Year B's main events (income collapse, unemployment, the roommate) were known before writing, so they were left out of the questions. A7 and A13 assume the 2023–24 breakup is already known.
 - My Vimshottari dates run about a week earlier than AstroSage's (for example, Mars–Mars starts 20 May here and 27 May on AstroSage). Mudda dasha uses Raman's method: the full first period begins at the annual chart's start, with no partial balance carried over.
+
+## Results (answers received 20 Nov 2026)
+
+Q0 (location) was not answered. San Francisco is assumed for all three years.
+
+### House questions (discriminating only)
+
+| Q | Answer | T | V |
+|---|---|---|---|
+| A1 | Health issues, partner unable to help; burnout after March | ✓ | ✗ |
+| A3 | No sibling change reported. Closest friend, seen every day, moved away. | ✗ | ½ (the 3rd house also covers close companions, but the question asked about siblings) |
+| A4 | Heavy | ✓ | ✗ |
+| A5 | Yes: from the April breakup, poured time into learning | ✓ | ✗ |
+| A7 | Sudden and quick | ✗ | ✗ |
+| A8 | Yes | ✗ | ✓ |
+| A9 | Trips to India (Mar), Hawaii (Oct), Caribbean (Feb); learned chemistry for work | ✓ | ✗ |
+| A10 | Heavy, slow progress | ✗ | ✓ |
+| A11 | Yes for DJing, not for the design job | ✓ | ✗ |
+| B1 | Yes: the "Fox" persona | ✓ | ✗ |
+| B2 | Irregular bursts plus government money | ✓ | ✗ |
+| B6 | Yes, all of the above | ✓ | ✗ |
+| B7 | No; disputes began in 2026 | ✓ | ✗ |
+| B9 | No travel abroad (Burning Man) | ✗ | ✓ |
+| B10 | Collapse; made money DJing | ✓ | ✗ |
+| B11 | Yes | ✓ | ✗ |
+| C1 | Both: optimistic, but low vitality, ego bruises, clashes with authority | ½ | ½ |
+| C2 | Yes | ✗ | ✓ |
+| C2b | Wisdom teeth removed | ✗ | ✓ |
+| C3 | Tried content in January, then stopped | ✗ | ✓ |
+| C4 | Yes: close friends moved in | ✓ | ✗ |
+| C7 | No romantic partner; a significant career partner | ½ (the 7th house covers business partners, but the question meant romance) | ½ |
+| C8 | Yes, in the last few months | ✓ | ✗ |
+| C10 | No | ✓ | ✗ |
+| C11 | Withdrew | ✗ | ✓ |
+| C12 | Yes: travel spending in Aug–Sep | ✗ | ✓ |
+| **Total (26)** | | **15** | **9.5** |
+
+| Year | T | V |
+|---|---|---|
+| A | 5 | 2.5 |
+| B | 6 | 1 |
+| C | 4 | 6 |
+
+**Non-discriminating questions:**
+- Both right: A2, A6, A12, B3, B4, B12, C5 (creative push yes, no romance), C6, C9.
+- Both wrong: B5 (predicted no romance; actual was casual dating plus an emotionally significant connection) and B8 (predicted others'-money paperwork; actual none).
+
+### Timing (Vedic systems)
+
+| Q | Actual | Mudda dasha | Vimshottari sub-periods | Chara dasha |
+|---|---|---|---|---|
+| A13 Breakup | Apr 2024 | ✓ (14 Feb – 30 Apr) | ✗ (predicted Oct 2023 – Jan 2024) | — |
+| B13 Income loss | May 2025 | ✗ (predicted Jan–Mar) | ½ (May falls on the Moon–Sun / Mars–Mars boundary) | ✓ (Aquarius sub-period from 27 Apr) |
+| B14 Improvement | Jun–Jul 2025 | ✗ (predicted from late Aug) | ✗ | — |
+| B15 Worst month | Mar 2025 | ✗ | ✗ | — |
+| C13 Dispute wins | Sep 2026 | ✗ (predicted Feb–May) | ✗ | ✓ (Pisces sub-period, Feb–Dec; very wide) |
+| C14 Stopped analytical work | Sep 2026 | ✓ (Venus, 9 Aug – 9 Oct) | ✗ | — |
+| C15 Most romantic stretch | Sep–Oct 2026 | ✓ (Venus, 9 Aug – 9 Oct) | ✗ (predicted Jun–Aug) | — |
+| **Score** | | **3 / 7** | **0.5 / 7** | **2 / 2** (10-month windows) |
+
+**Unscored, noticed afterwards:**
+- The new job started 6 Mar 2024, the day before the Mudda period changed from Mars to Rahu (7 Mar).
+- The worst month, March 2025, coincides with Saturn entering sidereal Pisces on 29 Mar 2025, the start of Sade Sati.
+- The improvement in June–July 2025 coincides with the Mudda Mercury period (15 Jun – 6 Aug).
+
+### Verdict
+
+- **House content:** tropical 15, Vedic 9.5, out of 26 discriminating questions (one went to neither). A one-sided binomial test gives p ≈ 0.12. That favours the tropical solar return but isn't significant. The lead comes entirely from years A and B; the Vedic chart was better in year C.
+- **Month-level timing:** Mudda dasha (3/7) clearly beat Vimshottari sub-periods (0.5/7). Sub-periods last weeks, so they shift with small errors in the Moon's position or the ayanamsa; this calculation and AstroSage's already differ by about a week. Chara sub-periods hit both times, but their 10-month windows make hits cheap.
+- **Bias:** most answers were "yes", so whichever method predicted more events tended to score. T's "yes" predictions fell in years A and B and V's in year C, so this doesn't explain the whole result. It does inflate both scores.
+- **Working rule:** use the tropical solar return for which life areas are active, Mudda dasha for which months, and natal Vimshottari only at the main-period and sub-period level. Treat Vimshottari sub-sub-periods (pratyantardashas) as unreliable.
